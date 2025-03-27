@@ -71,4 +71,4 @@ Este projeto está licenciado sob a **MIT License**. Para mais detalhes, veja o 
 
 ---
 
-Desenvolvido com ❤️ e tecnologia por [Diego Maldonado](https://github.com/banqueiro) com auxílio da **v0.dev** 🤖
+Desenvolvido com ❤️ e tecnologia por [@md_web3](https://github.com/banqueiro) com auxílio da **v0.dev** 🤖
